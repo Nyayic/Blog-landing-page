@@ -39,6 +39,7 @@ line-height: 25px;}
 @media (min-width: 576px) and (max-width: 767px) {
     .head_top {
         background: url(../images/banner.png);
+        background-size: cover;
     }
     .mean-container .mean-bar {
         margin-top: 0px;
@@ -80,7 +81,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
         width: 100%;
     }
     .navigation .navbar-collapse {
-        background: #02fee5;
+        background: #c7483a;
         padding: 20px;
         margin-top: 46px;
         position: absolute;
@@ -90,7 +91,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
     }
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
-        color: #000;
+        color: #fff;
     }
     .navigation.navbar-dark .navbar-toggler {
         border: inherit;
@@ -166,7 +167,7 @@ ul.like li img {
         margin-top: -45px;
     }
     .navigation .navbar-collapse {
-        background: #02fee5;
+        background: #c7483a;
         padding: 20px;
         margin-top: 46px;
         position: absolute;
@@ -176,7 +177,7 @@ ul.like li img {
     }
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
-        color: #000;    
+        color: #fff;    
     }
     .navigation.navbar-dark .navbar-toggler {
         float: right;

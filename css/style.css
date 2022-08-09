@@ -246,6 +246,8 @@ button {
 .main-layout {
      background-repeat: no-repeat;
      background: url(../images/body_bg.png);
+     background-size: cover;
+     position: relative;
 }
 
 .loader_bg {
