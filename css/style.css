@@ -223,7 +223,7 @@ button {
 }
 
 .theme_bg {
-     background: #38c8a8;
+     background: #C7483A;
 }
 
 .margin_top_30 {
@@ -309,7 +309,7 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .head_top {
-     background: url(../images/banner1.png);
+     background: url(../images/banner2.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      background-position: center;
