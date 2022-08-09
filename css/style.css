@@ -5,12 +5,12 @@
 
 /*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
+/* @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Baloo+Chettan&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900|Righteous&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900|Righteous&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Poppins:wght@200;300&display=swap');
 /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
  ----------------------------------------*****/
@@ -39,7 +39,7 @@ html {
 body {
      color: #666666;
      font-size: 14px;
-     font-family: 'Lato', sans-serif;
+     font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
 }
@@ -73,17 +73,17 @@ h6 {
 
 h1 {
      font-size: 24px;
-     font-family: 'Righteous', cursive;
+     font-family: 'Fredoka One', cursive;
 }
 
 h2 {
      font-size: 22px;
-     font-family: 'Righteous', cursive;
+     font-family: 'Fredoka One', cursive;
 }
 
 h3 {
      font-size: 18px;
-     font-family: 'Righteous', cursive;
+     font-family: 'Fredoka One', cursive;
 }
 
 h4 {
@@ -655,7 +655,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 30px;}
 }
 
 .cont h3 {
-     font-family: 'Righteous', cursive;
+     font-family: 'Fredoka One', cursive;
      font-size: 30px;
      line-height: 45px;
      color: #23262d;
